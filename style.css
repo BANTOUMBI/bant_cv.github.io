@@ -146,7 +146,7 @@ body{
     width:500px;
     border:1px solid gray;
 }
-.exp{
+.crs{
     position:absolute;
     top:150px;
     left:420px;
@@ -160,7 +160,7 @@ body{
     justify-content: center;
     background:linear-gradient(to right,rgba(8, 51, 107, 0.258), rgba(0, 0, 0, 0.747));
 }
-.exp1{
+.crs1{
     position:absolute;
     top:200px;
     left:390px;
@@ -171,7 +171,7 @@ body{
     left:-20px;
     top:3px;
 }
-.desc1{
+.desr1{
     position:absolute;
     top:220px;
     left:480px;
@@ -187,26 +187,13 @@ body{
     width:400px;
     color:black; 
 }
-.exp2{
+.crs3{
     position:absolute;
     top:280px;
     left:390px;
     font-size:17px;
 }
-.crs{
-    position:absolute;
-    top:370px;
-    left:420px;
-    font-size:20px;
-    width:450px;
-    height:30px;
-    font-weight:bold;
-    text-decoration: underline;
-    border-radius:50px;
-    text-align: center;
-    justify-content: center;
-    background:linear-gradient(to right,rgba(8, 51, 107, 0.258), rgba(0, 0, 0, 0.747));
-}
+
 .crs4{
     position:absolute;
     top:420px;
@@ -299,3 +286,4 @@ body{
     left:710px;
     font-size:17px;
 }
+
